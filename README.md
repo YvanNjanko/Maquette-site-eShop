@@ -1,2 +1,2 @@
-# site
-nous avons ici une maquette de site web de vente en ligne
+nous avons ici une maquette complete de site web de vente en ligne avec toute les pages...allant de l'inscription à l'achat...
+les images sont dans le dossier compressé 'image.rar'... decompressez ce dossier dans le dossier où vous importerz les fichiers sources.
